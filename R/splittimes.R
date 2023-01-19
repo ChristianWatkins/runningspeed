@@ -21,5 +21,4 @@ splitimes <- function(distanse, tid) {
       print(paste(x * 100, "meter:", round(x * splittime, 1), "sek"))
   } 
   
-  
 }
