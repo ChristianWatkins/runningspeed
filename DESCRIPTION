@@ -1,7 +1,7 @@
 Package: runningspeed
 Type: Package
 Title: Running speed and racetime calculation
-Version: 0.1.2
+Version: 0.1.3
 Author: Christian Watkins
 Maintainer: Christian Watkins <christian@somewhere.net>
 Description: Calculate speed from distance and time or finnish time for 400 meter based on speed.
